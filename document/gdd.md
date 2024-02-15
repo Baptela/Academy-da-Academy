@@ -46,7 +46,7 @@
 
 ### 1.1.3. Descrição da Solução Desenvolvida (sprints 1 e 4)
 
-*A nossa solução é fazer um jogo qu3 será acessível para a web, e ajudará o usuário a navegar na plataforma Oracle Academy com mais confiança. Esse jogo será feito utilizando o framework Phaser, e a linguagem de programação será Javascript. Serão utilizadas estratégias de gamificação para tornar o jogo mais interativo e engajante, mas não infantilizada.*
+*A nossa solução é fazer um jogo qu3 será acessível para a web, e ajudará o usuário a navegar na plataforma Oracle Academy com mais confiança. Esse jogo será feito utilizando o framework Phaser, e a linguagem de programação será Javascript. Serão utilizadas estratégias de gamificação para tornar o jogo mais interativo e engajante, mas não infantiliz.*
 
 ### 1.1.4. Proposta de Valor (sprints 1 e 4)
 
