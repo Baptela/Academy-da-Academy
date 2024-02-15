@@ -46,7 +46,7 @@
 
 ### 1.1.3. Descrição da Solução Desenvolvida (sprints 1 e 4)
 
-*Descreva brevemente a solução desenvolvida para o parceiro de negócios. Descreva os aspectos essenciais para a criação de valor da ideia do produto com o objetivo de ajudar a entender melhor a realidade do cliente e entregar uma solução que está alinhado com o que ele espera. Observe a seção 2 e verifique que ali é possível trazer mais detalhes, portanto seja objetivo aqui. Atualize esta descrição até a entrega final, conforme desenvolvimento.*
+*A nossa solução é fazer um jogo qu3 será acessível para a web, e ajudará o usuário a navegar na plataforma Oracle Academy com mais confiança. Esse jogo será feito utilizando o framework Phaser, e a linguagem de programação será Javascript. Serão utilizadas estratégias de gamificação para tornar o jogo mais interativo e engajante, mas não infantilizada.*
 
 ### 1.1.4. Proposta de Valor (sprints 1 e 4)
 
